@@ -89,7 +89,7 @@ The workflow architecture diagram is included in this repository for reference.
 
 Note
 
-Actual workflow files and datasets are not included as it contains database credentials, API keys for security and privacy reasons. Workflow architecture images are provided.
+Actual workflow files and datasets are not included for security and privacy reasons as it contains database credentials, API keys. Workflow architecture images are provided.
 
 # Outcome
 This solution enables business users to retrieve information from a database without writing SQL queries, reducing dependency on technical teams and making data access faster and more user-friendly.
